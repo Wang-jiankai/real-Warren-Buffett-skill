@@ -25,6 +25,13 @@
 
 ## ✨ Overview
 
+> ⚠️ **Please configure WebSearch permission before using** — Without it, you won't get real-time stock prices, earnings reports, or other current data. Analysis results will be severely inaccurate!
+>
+> Add to `settings.json`:
+> ```json
+> { "permissions": { "allow": ["WebSearch", "WebFetch"] } }
+> ```
+
 A Claude Code skill powered by Warren Buffett's value investment philosophy. Provides comprehensive analysis of stocks, businesses, and investment decisions.
 
 ---

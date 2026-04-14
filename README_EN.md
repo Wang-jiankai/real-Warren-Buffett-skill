@@ -1,3 +1,7 @@
+[中文版](README.md)
+
+---
+
 # Warren Buffett Investment Skill
 
 > *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett
@@ -53,20 +57,6 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 ---
 
-## File Structure
-
-```
-real-Warren-Buffett-skill/
-├── SKILL.md                    # Main skill file (Buffett investment framework)
-├── README.md                   # Chinese version
-├── README_EN.md                # This file
-└── references/
-    ├── questions.md            # Enterprise analysis checklist
-    └── indicators.md            # Key financial indicators
-```
-
----
-
 ## Investment Criteria
 
 | Indicator | Standard | Description |
@@ -89,7 +79,7 @@ real-Warren-Buffett-skill/
 
 ## Question Screening
 
-Before answering, the skill screens questions. **These will be refused:**
+**These will be refused:**
 
 | Type | Reason |
 |------|--------|
@@ -104,39 +94,29 @@ Before answering, the skill screens questions. **These will be refused:**
 
 ## Quote Highlights
 
-> *"The three most important words in investing: moat, margin of safety, circle of competence."*
-
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."*
 
 > *"Time is the enemy of bad businesses and the friend of wonderful businesses."*
 
 > *"Never borrow money. You can do fine without leverage."*
 
-> *"Only when you inherit money or marry a rich spouse does it make sense to take risks."*
+> *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."*
 
-> *"Price is what you pay. Value is what you get."*
-
-> *"In investing, you get what you don't pay for."*
-
-> *"The most important investment decision is whether the business has a durable moat."*
+> *"Price is what you pay. Value is is what you get."*
 
 ---
 
-## Wisdom from Duan Yongping
+## File Structure
 
-### Three Principles
-
-- **No grand ambitions** — Do what you love, stay grounded
-- **Know what NOT to do** — Be clear about your boundaries
-- **Be an honest person** — Integrity matters most
-
-### Benfen (本分)
-
-> *"Benfen means keeping your word and honoring commitments."*
-
-> *"People who make money dishonestly are never truly happy."*
-
-> *"Stop Doing List — if you discover something is wrong, stop immediately."*
+```
+real-Warren-Buffett-skill/
+├── SKILL.md                    # Main skill file
+├── README.md                   # Chinese version
+├── README_EN.md                # English version (this file)
+└── references/
+    ├── questions.md            # Enterprise analysis checklist
+    └── indicators.md            # Key financial indicators
+```
 
 ---
 
@@ -150,19 +130,11 @@ Before answering, the skill screens questions. **These will be refused:**
 
 ---
 
-## Deal Flow
-
-```
-User Question → Screening Check → [Pass?] → Analysis → Answer
-                          ↓
-                    [Fail?] → Refuse with Reason
-```
+[中文版](README.md)
 
 ---
 
-## License
-
-MIT License
+*License: MIT*
 
 ---
 

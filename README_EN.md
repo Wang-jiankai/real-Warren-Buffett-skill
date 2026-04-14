@@ -34,11 +34,13 @@
 > { "permissions": { "allow": ["WebSearch", "WebFetch"] } }
 > ```
 
-A Claude Code skill powered by Warren Buffett's value investment philosophy. Provides comprehensive analysis of stocks, businesses, and investment decisions.
+A Claude Code skill powered by Warren Buffett's value investment philosophy. Uses Buffett's thinking framework to analyze stocks, businesses, and investment decisions.
 
 ---
 
 ## 🎯 Features
+
+<div align="center">
 
 | Feature | Description |
 |---------|-------------|
@@ -49,6 +51,8 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 | 🛡️ Risk Assessment | Identify traps and risk signals |
 | 📋 Question Checklist | Systematic analysis framework |
 
+</div>
+
 ---
 
 ## 🚀 Quick Start
@@ -58,8 +62,6 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 /buffett 分析贵州茅台的投资价值
 /buffett 分析苹果公司的护城河
 /buffett 什么是安全边际
-
-# Ask about specific concepts
 /buffett 怎么判断管理层好不好
 /buffett ROE多少算合格
 ```
@@ -94,9 +96,9 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 | Principle | Description |
 |-----------|-------------|
-| Never invest in what you don't understand | 不投不懂的行业 |
-| Never invest in businesses without moats | 不投没有护城河的企业 |
-| Never invest with unreliable management | 不投管理层不可靠的公司 |
+| Never invest in what you don't understand | Stay within your circle of competence |
+| Never invest in businesses without moats | No moat means vulnerable to competition |
+| Never invest with unreliable management | Bad people can ruin even a good business |
 
 </div>
 
@@ -106,6 +108,8 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 ### Qualified Indicators
 
+<div align="center">
+
 | Indicator | Standard | Description |
 |:---------:|:--------:|-------------|
 | ROE | > 15% | Long-term maintained, higher is better |
@@ -114,6 +118,8 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 | Free Cash Flow | Positive & Stable | True test of profitability |
 | Gross Margin | > 40% | Pricing power indicator |
 | Payout Ratio | < 70% | Balance dividends and reinvestment |
+
+</div>
 
 ### 🚫 Deal Breakers
 
@@ -130,14 +136,18 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 ### Questions That Will Be Refused
 
-| Type | Reason | Buffett Said |
-|:----:|--------|--------------|
-| Bitcoin/Crypto | No cash flow, pure speculation | "Bitcoin creates nothing" |
-| Leverage/Derivatives | Risk of losing principal | "Leverage is risking money you need" |
-| Tech Stocks (outside circle) | Can't predict 10 years out | "I don't know what Microsoft will look like in 10 years" |
-| No-Moat Companies | Value traps | "A cheap business with no moat is a trap" |
-| Macro Prediction | Nobody knows | "I don't care about their macro predictions" |
-| Market Timing | Can't predict markets | "I've never seen a person who can consistently time the market" |
+<div align="center">
+
+| Type | Reason |
+|:----:|--------|
+| Bitcoin/Crypto | No cash flow, pure speculation |
+| Leverage/Derivatives | Risk of losing principal |
+| Tech Stocks (outside circle) | Can't predict 10 years out |
+| No-Moat Companies | Value traps |
+| Macro Prediction | Nobody knows |
+| Market Timing | Can't predict markets |
+
+</div>
 
 ---
 
@@ -150,10 +160,6 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 > *"Never borrow money. You can do fine without leverage."*
 
 > *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."*
-
-> *"Price is what you pay. Value is what you get."*
-
-> *"The stock market is designed to transfer money from the active to the patient."*
 
 ---
 
@@ -173,11 +179,11 @@ real-Warren-Buffett-skill/
 
 ## 🏛️ Inspired By
 
-- 🏰 **Moat** — Economic Moat
-- ⚖️ **Margin of Safety** — Margin of Safety
-- 🎯 **Circle of Competence** — Circle of Competence
-- ⏳ **Long-term Holding** — Long-term Holding
-- 💎 **Benfen Culture** — 段永平 (Duan Yongping)
+- 🏰 **Moat** — Economic Moat, durable competitive advantage
+- ⚖️ **Margin of Safety** — Buy wonderful companies at fair prices
+- 🎯 **Circle of Competence** — Only invest in what you understand
+- ⏳ **Long-term Holding** — Time is the friend of wonderful businesses
+- 💎 **Benfen Culture** — Duan Yongping, do the right thing
 
 ---
 
@@ -193,7 +199,7 @@ real-Warren-Buffett-skill/
 
 <div align="center">
 
-*License: MIT*
+*MIT License*
 
 *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."*
 

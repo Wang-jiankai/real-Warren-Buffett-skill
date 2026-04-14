@@ -1,9 +1,9 @@
 <!-- badges -->
 <div align="center">
 
-![Warren Buffett](https://img.shields.io/badge/Warren-Buffett-FF6B35?style=for-the-badge&logo=buffalo)
-![Value Investing](https://img.shields.io/badge/Value-Investing-2E7D32?style=for-the-badge&logo=leaf)
-![Claude Code](https://img.shields.io/badge/Claude-Code-7B68EE?style=for-the-badge&logo=robot)
+![巴菲特](https://img.shields.io/badge/巴菲特-FF6B35?style=for-the-badge&logo=buffalo)
+![价值投资](https://img.shields.io/badge/价值投资-2E7D32?style=for-the-badge&logo=leaf)
+![Claude_Code](https://img.shields.io/badge/Claude_Code-7B68EE?style=for-the-badge&logo=robot)
 
 *[English](README_EN.md)*
 
@@ -34,7 +34,7 @@
 > { "permissions": { "allow": ["WebSearch", "WebFetch"] } }
 > ```
 
-基于沃伦·巴菲特价值投资理念打造的 Claude Code 技能助手，提供股票分析、企业评估、投资决策辅助。
+基于沃伦·巴菲特价值投资理念打造的 Claude Code 技能助手，用巴菲特的思维框架分析股票、企业和投资决策。
 
 ---
 
@@ -71,16 +71,16 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   🏰 护城河（Moat）                                       │
+│   🏰 护城河                                              │
 │      企业抵御竞争对手的持久竞争优势                          │
 │                                                         │
-│   ⚖️ 安全边际（Margin of Safety）                          │
+│   ⚖️ 安全边际                                            │
 │      永远用低于内在价值的价格买入                           │
 │                                                         │
-│   🎯 能力圈（Circle of Competence）                        │
+│   🎯 能力圈                                              │
 │      只投资你真正理解的行业                                │
 │                                                         │
-│   👔 优质管理层                                           │
+│   👔 优质管理层                                          │
 │      诚信、有能力、为股东着想                              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -90,11 +90,11 @@
 
 <div align="center">
 
-| 原则 | 英文 |
+| 原则 | 说明 |
 |------|------|
-| 不投不懂的行业 | Never invest in what you don't understand |
-| 不投没有护城河的企业 | Never invest in businesses without moats |
-| 不投管理层不可靠的公司 | Never invest with unreliable management |
+| 不投不懂的行业 | 不在自己能力圈内，不碰 |
+| 不投没有护城河的企业 | 没有护城河保护，迟早会被淘汰 |
+| 不投管理层不可靠的公司 | 人不对，再好的生意也会做坏 |
 
 </div>
 
@@ -107,7 +107,7 @@
 | 指标 | 标准 | 说明 |
 |:----:|:----:|------|
 | ROE | > 15% | 长期维持，越高越好 |
-| ROA | > 10% | 企业资产利用效率 |
+| ROA | > 10% | 资产利用效率 |
 | 债务/股权 | < 50% | 债务水平可控 |
 | 自由现金流 | 正数且稳定 | 利润的真实检验 |
 | 毛利率 | > 40% | 定价权的体现 |
@@ -118,7 +118,7 @@
 - ❌ 连续 5 年亏损
 - ❌ 管理层有诚信问题
 - ❌ 行业前景不明
-- ❌ 依赖单一客户/产品 > 30%
+- ❌ 依赖单一客户/产品超过 30%
 
 ---
 
@@ -128,30 +128,26 @@
 
 ### 将被直接拒绝的问题
 
-| 类型 | 原因 | 巴菲特怎么说 |
-|:----:|------|-------------|
-| 比特币/加密货币 | 不产生现金流，是投机不是投资 | "比特币不创造任何东西" |
-| 杠杆/期权 | 违背保本原则 | "杠杆是把需要的钱去冒险" |
-| 能力圈外科技股 | 变化太快，无法预测10年后 | "我不知道微软10年后怎样" |
-| 没有护城河的公司 | 低价可能是价值陷阱 | "没有护城河的便宜是陷阱" |
-| 宏观预测 | 没人知道，浪费时间 | "我不在乎他们的宏观预测" |
-| 时机选择 | 没人能预测市场 | "我从没见过能连续把握时机的人" |
+| 类型 | 原因 |
+|:----:|------|
+| 比特币/加密货币 | 不产生现金流，是投机不是投资 |
+| 杠杆/期权 | 违背保本原则 |
+| 能力圈外科技股 | 变化太快，无法预测10年后会怎样 |
+| 没有护城河的公司 | 低价可能是价值陷阱 |
+| 宏观预测 | 没人知道，浪费时间 |
+| 时机选择 | 没人能预测市场走势 |
 
 ---
 
 ## 💬 经典语录
 
 > *"好公司买贵了也比烂公司买便宜强。"*
-> *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."*
 
 > *"时间是烂生意的敌人，是好生意的朋友。"*
-> *"Time is the enemy of bad businesses and the friend of wonderful businesses."*
 
 > *"不要借钱投资。用不着杠杆也一样能做成大事。"*
-> *"Never borrow money. You can do fine without leverage."*
 
 > *"如果你不愿意持有一只股票十年，那就不要考虑持有十分钟。"*
-> *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."*
 
 ---
 
@@ -161,7 +157,7 @@
 real-Warren-Buffett-skill/
 ├── SKILL.md                    📖 主技能文件（完整分析框架）
 ├── README.md                   📝 中文主导版（本文）
-├── README_EN.md                📝 English version
+├── README_EN.md                📝 英文版
 └── references/
     ├── questions.md            ❓ 企业分析提问清单
     └── indicators.md           📈 关键财务指标详解
@@ -171,11 +167,11 @@ real-Warren-Buffett-skill/
 
 ## 🏛️ 理念来源
 
-- 🏰 **护城河** — Economic Moat
-- ⚖️ **安全边际** — Margin of Safety
-- 🎯 **能力圈** — Circle of Competence
-- ⏳ **长期持有** — Long-term Holding
-- 💎 **本分文化** — 段永平
+- 🏰 **护城河** — 经济护城河，企业的持久竞争优势
+- ⚖️ **安全边际** — 永远用便宜的价格买好东西
+- 🎯 **能力圈** — 只投资自己看得懂的公司
+- ⏳ **长期持有** — 时间是好生意的朋友
+- 💎 **本分文化** — 段永平，做对的事情
 
 ---
 
@@ -191,7 +187,7 @@ real-Warren-Buffett-skill/
 
 <div align="center">
 
-*License: MIT*
+*MIT License*
 
 *"如果你不愿意持有一只股票十年，那就不要考虑持有十分钟。"*
 

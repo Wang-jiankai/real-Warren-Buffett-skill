@@ -13,11 +13,13 @@
 
 <div align="center">
 
-# 💰 Warren Buffett Investment Skill
+# 🏆 The Real Buffett
+
+*What Would Buffett Think?*
 
 > *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett
 
-**An intelligent investment assistant powered by value investing philosophy**
+**Answers from Buffett · Intelligent analysis powered by value investing**
 
 </div>
 

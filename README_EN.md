@@ -1,31 +1,48 @@
-[中文版](README.md)
+<!-- badges -->
+<div align="center">
+
+![Warren Buffett](https://img.shields.io/badge/Warren-Buffett-FF6B35?style=for-the-badge&logo=buffalo)
+![Value Investing](https://img.shields.io/badge/Value-Investing-2E7D32?style=for-the-badge&logo=leaf)
+![Claude Code](https://img.shields.io/badge/Claude-Code-7B68EE?style=for-the-badge&logo=robot)
+
+*[中文版](README.md)*
+
+</div>
 
 ---
 
-# Warren Buffett Investment Skill
+<div align="center">
+
+# 💰 Warren Buffett Investment Skill
 
 > *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett
 
+**An intelligent investment assistant powered by value investing philosophy**
+
+</div>
+
 ---
 
-## Overview
+## ✨ Overview
 
 A Claude Code skill powered by Warren Buffett's value investment philosophy. Provides comprehensive analysis of stocks, businesses, and investment decisions.
 
 ---
 
-## Features
+## 🎯 Features
 
-- 🎯 Investment Philosophy & Framework
-- 🏰 Business/Stock Analysis
-- 📊 Financial Indicators
-- 💹 Valuation Methodology
-- 🛡️ Risk Assessment
-- 📋 Question Checklist
+| Feature | Description |
+|---------|-------------|
+| 🎯 Investment Philosophy & Framework | Moat, Margin of Safety, Circle of Competence |
+| 🏰 Business/Stock Analysis | Analyze investments from Buffett's perspective |
+| 📊 Financial Indicators | ROE, Cash Flow, Debt structure analysis |
+| 💹 Valuation Methodology | Intrinsic value & margin of safety assessment |
+| 🛡️ Risk Assessment | Identify traps and risk signals |
+| 📋 Question Checklist | Systematic analysis framework |
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
 ```bash
 # Trigger the skill by asking investment questions
@@ -40,27 +57,48 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 ---
 
-## Core Principles
+## 📜 Core Principles
 
-### Four Investment Principles
+### 🏆 Four Investment Principles
 
-1. **Moat** — Durable competitive advantage
-2. **Margin of Safety** — Buy below intrinsic value
-3. **Circle of Competence** — Only invest in what you understand
-4. **Quality Management** — Honest, capable, shareholder-focused
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🏰 Moat                                               │
+│      Durable competitive advantage                       │
+│                                                         │
+│   ⚖️ Margin of Safety                                   │
+│      Buy below intrinsic value                          │
+│                                                         │
+│   🎯 Circle of Competence                                │
+│      Only invest in what you understand                  │
+│                                                         │
+│   👔 Quality Management                                  │
+│      Honest, capable, shareholder-focused                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-### Three-Never Principles
+### ❌ Three-Never Principles
 
-- ❌ **Never invest in what you don't understand**
-- ❌ **Never invest in businesses without moats**
-- ❌ **Never invest with unreliable management**
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| Never invest in what you don't understand | 不投不懂的行业 |
+| Never invest in businesses without moats | 不投没有护城河的企业 |
+| Never invest with unreliable management | 不投管理层不可靠的公司 |
+
+</div>
 
 ---
 
-## Investment Criteria
+## 📊 Investment Criteria
+
+### Qualified Indicators
 
 | Indicator | Standard | Description |
-|-----------|----------|-------------|
+|:---------:|:--------:|-------------|
 | ROE | > 15% | Long-term maintained, higher is better |
 | ROA | > 10% | Asset utilization efficiency |
 | Debt/Equity | < 50% | Controllable debt level |
@@ -68,7 +106,7 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 | Gross Margin | > 40% | Pricing power indicator |
 | Payout Ratio | < 70% | Balance dividends and reinvestment |
 
-### Deal Breakers
+### 🚫 Deal Breakers
 
 - ❌ 5 consecutive years of losses
 - ❌ Management integrity issues
@@ -77,22 +115,24 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 ---
 
-## Question Screening
+## 🚦 Question Screening
 
-**These will be refused:**
+> Before answering any question, the skill screens whether it aligns with Buffett's investment philosophy
 
-| Type | Reason |
-|------|--------|
-| Bitcoin/Crypto | No cash flow, pure speculation |
-| Leverage/Derivatives | Risk of losing principal |
-| Tech Stocks (outside circle) | Can't predict 10 years out |
-| No-Moat Companies | Value traps |
-| Macro Prediction | Nobody knows |
-| Market Timing | Can't predict markets |
+### Questions That Will Be Refused
+
+| Type | Reason | Buffett Said |
+|:----:|--------|--------------|
+| Bitcoin/Crypto | No cash flow, pure speculation | "Bitcoin creates nothing" |
+| Leverage/Derivatives | Risk of losing principal | "Leverage is risking money you need" |
+| Tech Stocks (outside circle) | Can't predict 10 years out | "I don't know what Microsoft will look like in 10 years" |
+| No-Moat Companies | Value traps | "A cheap business with no moat is a trap" |
+| Macro Prediction | Nobody knows | "I don't care about their macro predictions" |
+| Market Timing | Can't predict markets | "I've never seen a person who can consistently time the market" |
 
 ---
 
-## Quote Highlights
+## 💬 Quote Highlights
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."*
 
@@ -102,42 +142,50 @@ A Claude Code skill powered by Warren Buffett's value investment philosophy. Pro
 
 > *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."*
 
-> *"Price is what you pay. Value is is what you get."*
+> *"Price is what you pay. Value is what you get."*
+
+> *"The stock market is designed to transfer money from the active to the patient."*
 
 ---
 
-## File Structure
+## 📁 File Structure
 
 ```
 real-Warren-Buffett-skill/
-├── SKILL.md                    # Main skill file
-├── README.md                   # Chinese version
-├── README_EN.md                # English version (this file)
+├── SKILL.md                    📖 Main skill file (complete framework)
+├── README.md                   📝 Chinese version
+├── README_EN.md                📝 English version (this file)
 └── references/
-    ├── questions.md            # Enterprise analysis checklist
-    └── indicators.md            # Key financial indicators
+    ├── questions.md            ❓ Enterprise analysis checklist
+    └── indicators.md           📈 Key financial indicators
 ```
 
 ---
 
-## Inspired By
+## 🏛️ Inspired By
 
-- Moat (Economic Moat)
-- Margin of Safety
-- Circle of Competence
-- Long-term Holding
-- Benfen Culture (段永平)
+- 🏰 **Moat** — Economic Moat
+- ⚖️ **Margin of Safety** — Margin of Safety
+- 🎯 **Circle of Competence** — Circle of Competence
+- ⏳ **Long-term Holding** — Long-term Holding
+- 💎 **Benfen Culture** — 段永平 (Duan Yongping)
+
+---
+
+## 🔗 Links
+
+<div align="center">
+
+*[中文版](README.md)*
+
+</div>
 
 ---
 
-[中文版](README.md)
-
----
+<div align="center">
 
 *License: MIT*
 
----
-
 *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."*
 
-*"The stock market is designed to transfer money from the active to the patient."*
+</div>
